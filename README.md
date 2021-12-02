@@ -1,6 +1,6 @@
 # GIS Day in 東京 2021 Eコース「Pythonで作るマルチエージェントシミュレーション」リポジトリ
 
-* Google Earth Engine入門
+* Pythonで作るマルチエージェントシミュレーション
 * 東京都立大学 都市環境学部 地理環境学科 中山大地
 * 2021年12月4日 東京都立大学 南大沢キャンパス（オンライン開催）
 * このテキストのURL [https://github.com/bokutachi256/gisday2021](https://github.com/bokutachi256/gisday2021)

@@ -7,7 +7,7 @@
 * Google ColaboratoryのURL [https://colab.research.google.com/](https://colab.research.google.com/)
 * MESAのURL [https://mesa.readthedocs.io/](https://mesa.readthedocs.io/)
 
-本ドキュメントは[https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html](Mesaのチュートリアル)を参考にして作成しました．
+本ドキュメントは[Mesaのチュートリアル](https://mesa.readthedocs.io/en/latest/tutorials/intro_tutorial.html)を参考にして作成しました．
 
 # 内容
 1. [画像の検索と表示](https://github.com/bokutachi256/gisday2020/blob/main/01%20%E8%A1%9B%E6%98%9F%E7%94%BB%E5%83%8F%E3%81%AE%E6%A4%9C%E7%B4%A2%E3%81%A8%E8%A1%A8%E7%A4%BA.md)
